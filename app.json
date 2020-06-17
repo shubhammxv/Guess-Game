@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn-tutorial",
-    "slug": "rn-tutorial",
+    "name": "rn-guess-game",
+    "slug": "rn-guess-game",
     "platforms": [
       "ios",
       "android",
