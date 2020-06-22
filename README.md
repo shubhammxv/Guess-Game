@@ -13,6 +13,8 @@ A simple guess game where user chooses a number and then makes number of guesses
 ``` bash
 # install dependencies
 $ npm install
+
+# launch server
 $ npm start
 ```
 
